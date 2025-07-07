@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "WHISTB",
   "resources": {
-    "hash": "sha256-vFkCMxbGl9uXr1W08doUTkAQwHe2fAmgxgDx08ehZmM=",
+    "hash": "sha256-xn33nY2GDEYM5NnknTAQoa1ClAHFP8/rzy45FzDNv0Y=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-YyxJV6dv935qHoQAmjB+2qRjHeGpm4SyWxE0T/KvsIE="
     },
@@ -49,7 +49,7 @@
       "System.Text.Json.wasm": "sha256-u117yrdJrUX/Q+qzw1fc65jx/ra8VGCzdSzuYl4xMUE=",
       "System.Text.RegularExpressions.wasm": "sha256-hGZleNEZV17Dz5kzEWFvNqnurwCDj1PZ9QMtVOHwaI0=",
       "System.Private.CoreLib.wasm": "sha256-HLwNl20nHgugYun92Rav7cGNU651cj35ODobUnw67u8=",
-      "WHISTB.wasm": "sha256-Z5zQs7Xui+vAQ9xn1DLm3ACWIU7Jv/9e0NlHBH1Jxg0="
+      "WHISTB.wasm": "sha256-4pr8L8cgfYHTEmdhQVJayaI1gdreaS6azqF1OFX7NiU="
     }
   },
   "cacheBootResources": true,
